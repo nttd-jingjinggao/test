@@ -7,5 +7,8 @@ switch (today) {
     case [2] :
     println "22222"
     break
+    case [3] :
+    println "33333"
+    break
 }
 println "-----end-----" 
