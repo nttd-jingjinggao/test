@@ -1,5 +1,5 @@
 def today = day
-println today
+println "today=" today
 switch (today) {
     case [1] :
     println "111111"
@@ -8,3 +8,4 @@ switch (today) {
     println "22222"
     break
 }
+println "-----end-----" 
