@@ -1,4 +1,4 @@
-def today = day
+int today = day
 println "today=" today
 switch (today) {
     case [1] :
