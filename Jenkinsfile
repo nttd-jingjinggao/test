@@ -1,5 +1,5 @@
 int today = day
-println "today=" today
+println "today=" + today
 switch (today) {
     case [1] :
     println "111111"
