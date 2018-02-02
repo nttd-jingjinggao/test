@@ -1,4 +1,5 @@
-def today = 2
+def today = day
+println today
 switch (today) {
     case [1] :
     println "111111"
