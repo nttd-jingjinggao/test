@@ -7,5 +7,5 @@ for ( String name1 : names ) {
     println "&&&&&"
     }
 }
-def clos = { param->println name + "${name} ${param}" }
+def clos = { param->println "${name} ${param}" }
 clos.call("***")
