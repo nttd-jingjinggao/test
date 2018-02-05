@@ -1,1 +1,4 @@
-
+names = ["Michae1", "James", "Kavin", "Seteven" ]
+for (string name :names) {
+    println name
+}
