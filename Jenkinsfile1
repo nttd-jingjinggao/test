@@ -12,5 +12,5 @@ println "--------"
     println it
 }
 10.downto(7) {
-    println it
+    println it
 }
