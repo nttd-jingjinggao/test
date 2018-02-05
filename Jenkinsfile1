@@ -7,8 +7,5 @@ for ( String name1 : names ) {
     println "&&&&&"
     }
 }
-int i = 0;
-while ( i < 5 ) {
-    println "*****"
-    i ++
-}
+def clos = { param->println name + "${param}" }
+clos.call("***")
