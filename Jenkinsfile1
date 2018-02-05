@@ -4,6 +4,6 @@ for ( String name1 : names ) {
     println name 
     }
     else{
-    println "&&&&&"
+    println "&&&&&"
     }
 }
