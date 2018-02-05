@@ -1,7 +1,6 @@
 int today = day
 println "today=" + today
-for ( int i = 1 ; i < today ; i ++ ) {
-    println "-----start-----" 
+for ( i in 0..5 ) {
     println "i=" + i
     println "-------------"
 }    
