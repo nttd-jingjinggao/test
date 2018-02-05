@@ -8,9 +8,6 @@ for ( String name1 : names ) {
     }
 }
 println "--------"
-1.upto(3) {
-    println it
-}
-10.downto(7) {
-    println it
+5.times {
+    println "*****"
 }
