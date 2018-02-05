@@ -1,4 +1,9 @@
 names = ["Michae1", "James", "Kavin", "Seteven" ]
 for ( String name1 : names ) {
-    println name
+    if ( name1 = name ){
+    println name 
+    }
+    else{
+    println "&&&&&"
+    }
 }
