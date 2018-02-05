@@ -7,7 +7,3 @@ for ( String name1 : names ) {
     println "&&&&&"
     }
 }
-println "--------"
-5.times {
-    println "*****"
-}
