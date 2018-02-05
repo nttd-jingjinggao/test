@@ -7,3 +7,10 @@ for ( String name1 : names ) {
     println "&&&&&"
     }
 }
+println "--------"
+2.upto(5) {
+    println it
+}
+10.downto(7) {
+    println it
+}
