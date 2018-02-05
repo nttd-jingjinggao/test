@@ -1,4 +1,4 @@
 names = ["Michae1", "James", "Kavin", "Seteven" ]
-for (string name :names) {
+for (string name1 :names) {
     println name
 }
