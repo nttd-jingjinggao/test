@@ -1,8 +1,8 @@
 int today = day
 println "today=" + today
-def range = 5..10
+def range = 1..today
+println "range=" + range
 range.each {
-    println "range=" + range
     println it
 }    
 println "-----end-----" 
