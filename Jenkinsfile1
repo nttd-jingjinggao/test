@@ -1,6 +1,6 @@
 names = ["Michae1", "James", "Kavin", "Seteven" ]
 for ( String name1 : names ) {
-    if ( name1 = name ){
+    if ( name1 == name ){
     println name 
     }
     else{
